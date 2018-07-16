@@ -31,7 +31,7 @@ Description. Description. Description. Description. Description. Description. De
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'P2/Classes/**/*'
+  s.source_files = 'P2/**/*'
   
   # s.resource_bundles = {
   #   'P2' => ['P2/Assets/*.png']
